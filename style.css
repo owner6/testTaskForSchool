@@ -46,4 +46,9 @@ label {
     margin-top: 10px;
     padding: 10px;
     background-color: #f1f1f1;
+    font-size: 0.45em;
+}
+h1 {
+    display: block;
+    text-align: center;
 }
